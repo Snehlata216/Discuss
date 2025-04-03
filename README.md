@@ -1,2 +1,2 @@
 # Discuss
-In repo we cam discuss or search question 
+In repo we can discuss or search question 
